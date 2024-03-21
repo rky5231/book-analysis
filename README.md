@@ -1,7 +1,5 @@
 # Book Analysis
 
-![Book Analysis](https://github.com/rky5231/book-analysis/blob/main/book-analysis-screenshot.png)
-
 This project aims to provide analysis and insights into various books. It utilizes natural language processing (NLP) techniques to extract key information from books and present it in a structured format.
 
 ## Features
